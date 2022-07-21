@@ -15,7 +15,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davit-sopoevi-a6383123b" height="30" width="40" /></a>
 <a href="https://www.behance.net/davitsophoevi" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="davitsophoevi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCDtIrV6ar8mWcu7DrB99MhA" target="blank">
+<a href="https://www.youtube.com/channel/UCDtIrV6ar8mWcu7DrB99MhA" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdtirv6ar8mwcu7drb99mhah" height="30" width="40" /></a>
 </p>
 
