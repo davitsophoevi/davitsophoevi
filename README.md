@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dsopoevi" target="blank">
+<a href="https://x.com/DSopoevi" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dsopoevi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davit-sopoevi-a6383123b" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davit-sopoevi-a6383123b" height="30" width="40" /></a>
